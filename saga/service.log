@@ -1,0 +1,100 @@
+These Windows services are started:
+
+   Apple Mobile Device Service
+   Application Information
+   Avast Antivirus
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Bluetooth Service
+   Bluetooth Support Service
+   CDROM_Detect
+   COM+ Event System
+   Computer Browser
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   Human Interface Device Service
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Capability Licensing Service Interface
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Management and Security Application Local Management Service
+   Intel(R) Management and Security Application User Notification Service
+   Intel(R) PROSet/Wireless Event Log
+   Intel(R) PROSet/Wireless Registry Service
+   IP Helper
+   iPod Service
+   IPsec Policy Agent
+   Lenovo Auto Scroll
+   Lenovo Hotkey Client Loader
+   Lenovo Microphone Mute
+   Lenovo PM Service
+   Lenovo QuickSnip Service
+   Lenovo Settings Power Service
+   Lenovo Settings Service
+   Lenovo System Agent Service
+   Lenovo Tablet Service
+   LnvMHService
+   Local Session Manager
+   Location Task Manager
+   Microsoft Office Click-to-Run Service
+   Nalpeiron Licensing Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NitroPDFDriverCreatorReadSpool8
+   Norton Internet Security
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   RelevantKnowledge
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   Superfetch
+   Synaptics FP WBF Policy Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   TeamViewer 12
+   Themes
+   Time Broker
+   UI Assistant Service
+   UPnP Device Host
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Media Player Network Sharing Service
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully.
+
